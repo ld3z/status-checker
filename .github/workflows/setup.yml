@@ -61,4 +61,4 @@ jobs:
           github_token: ${{ secrets.GH_PAT }}
           publish_dir: "site/status-page/__sapper__/export/"
           user_name: "jamesthepeep"
-          user_email: "$COMMIT_EMAIL_SECRET"
+          user_email: "ldescamps165@gmail.com"
