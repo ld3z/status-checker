@@ -30,7 +30,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
   commitMessages:
     commitAuthorName: "the-peep"
-    commitAuthorEmail: "$COMMIT_EMAIL_SECRET"
+    commitAuthorEmail: $COMMIT_EMAIL_SECRET
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
