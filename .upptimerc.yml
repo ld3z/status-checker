@@ -9,6 +9,8 @@ sites:
     url: https://www.roblox.com
   - name: YouTube
     url: https://www.youtube.com
+  - name: ComicK
+    url: https://comick.fun
   - name: MangaDex
     url: https://www.mangadex.org
   - name: Github
