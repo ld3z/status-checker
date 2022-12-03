@@ -8,9 +8,9 @@ sites:
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Roblox
-    url: https://roblox.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://www.roblox.com
+  - name: YouTube
+    url: https://www.youtube.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
