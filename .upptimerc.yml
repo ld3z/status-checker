@@ -17,6 +17,16 @@ sites:
     url: https://www.discord.com
   - name: Disney+
     url: https://www.disneyplus.com
+  - name: Steam
+    url: https://store.steampowered.com
+  - name: Netflix
+    url: https://www.netflix.com
+  - name: MyAnimeList
+    url: https://www.myanimelist.net
+  - name: AniList
+    url: https://www.anilist.co
+  - name: Kahoot!
+    url: https://www.kahoot.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
