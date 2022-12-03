@@ -5,6 +5,8 @@ repo: status-checker # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
+  - name: Amazon
+    url: https://www.amazon.com
   - name: Roblox
     url: https://www.roblox.com
   - name: YouTube
@@ -28,6 +30,8 @@ sites:
   - name: Sakura
     url: https://cdezselfhosted.pw
     icon: https://media.discordapp.net/attachments/480142233761480704/1000902494286786571/sakuralogo_textonly.png?width=676&height=676
+  - name: Hypixel
+    url: mc.hypixel.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
