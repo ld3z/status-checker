@@ -9,6 +9,7 @@ sites:
     url: https://www.amazon.com
   - name: Roblox
     url: https://www.roblox.com
+    url: https://games.roblox.com
   - name: YouTube
     url: https://www.youtube.com
   - name: ComicK
