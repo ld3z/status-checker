@@ -21,6 +21,8 @@ sites:
     url: https://www.discord.com
   - name: Twitter
     url: https://www.twitter.com
+  - name: Reddit
+    url: https://www.reddit.com
   - name: Disney+
     url: https://www.disneyplus.com
   - name: Steam
@@ -30,6 +32,8 @@ sites:
   - name: Sakura
     url: https://cdezselfhosted.pw
     icon: https://media.discordapp.net/attachments/480142233761480704/1000902494286786571/sakuralogo_textonly.png?width=676&height=676
+  - name: Minecraft
+    url: https://www.minecraft.net
   - name: Hypixel
     url: mc.hypixel.net
     check: "tcp-ping"
