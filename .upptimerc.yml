@@ -25,10 +25,8 @@ sites:
     url: https://store.steampowered.com
   - name: Netflix
     url: https://www.netflix.com
-  - name: MyAnimeList
-    url: https://www.myanimelist.net
-  - name: AniList
-    url: https://www.anilist.co
+  - name: Sakura
+    url: https://cdezselfhosted.pw
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
