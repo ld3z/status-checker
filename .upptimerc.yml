@@ -32,6 +32,8 @@ sites:
     icon: https://media.discordapp.net/attachments/480142233761480704/1000902494286786571/sakuralogo_textonly.png?width=676&height=676
   - name: Hypixel
     url: mc.hypixel.net
+    check: "tcp-ping"
+    port: 25565
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
