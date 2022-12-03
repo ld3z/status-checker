@@ -52,4 +52,4 @@ i18n:
 
 commitMessages:
   commitAuthorName: "jamesthepeep"
-  commitAuthorEmail: "$COMMIT_EMAIL_SECRET"
+  commitAuthorEmail: $COMMIT_EMAIL_SECRET
