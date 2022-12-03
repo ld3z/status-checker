@@ -49,3 +49,7 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 i18n:
   footer: This page is [open source]($REPO), powered by The Bee Movie.
+
+commitMessages:
+  commitAuthorName: "jamesthepeep"
+  commitAuthorEmail: "ldescamps165@gmail.com"
