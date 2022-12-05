@@ -9,6 +9,8 @@ sites:
     url: https://www.amazon.com
   - name: Roblox
     url: https://www.roblox.com
+  - name: Roblox Games
+    url: https://gamejoin.roblox.com/
   - name: YouTube
     url: https://www.youtube.com
   - name: Twitch
