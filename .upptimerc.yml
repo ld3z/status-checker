@@ -43,6 +43,7 @@ sites:
     icon: https://hypixel.net/styles/hypixel-v2/images/header-logo.png
   - name: PowerSchool
     url: $SECRET_URL
+    icon: https://www.powerschool.com/wp-content/themes/powerschool/images/logo.svg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
