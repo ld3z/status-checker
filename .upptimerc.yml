@@ -44,6 +44,8 @@ sites:
   - name: PowerSchool
     url: $SECRET_URL
     icon: https://www.powerschool.com/wp-content/themes/powerschool/images/logo.svg
+  - name: Desmos
+    url: https://www.desmos.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
