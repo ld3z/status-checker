@@ -238,18 +238,20 @@
     "url": "https://store.steampowered.com",
     "icon": "https://icons.duckduckgo.com/ip3/store.steampowered.com.ico",
     "slug": "steam",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 418,
-    "timeDay": 381,
-    "timeWeek": 418,
-    "timeMonth": 418,
-    "timeYear": 418,
-    "dailyMinutesDown": {}
+    "time": 411,
+    "timeDay": 343,
+    "timeWeek": 411,
+    "timeMonth": 411,
+    "timeYear": 411,
+    "dailyMinutesDown": {
+      "2022-12-07": 0
+    }
   },
   {
     "name": "Netflix",
