@@ -36,11 +36,6 @@ sites:
   - name: Sakura
     url: https://cdezselfhosted.pw
     icon: https://media.discordapp.net/attachments/480142233761480704/1000902494286786571/sakuralogo_textonly.png?width=676&height=676
-  - name: Hypixel
-    url: mc.hypixel.net
-    check: "tcp-ping"
-    port: 25565
-    icon: https://hypixel.net/styles/hypixel-v2/images/header-logo.png
   - name: PowerSchool
     url: $SECRET_URL
     icon: https://www.powerschool.com/wp-content/themes/powerschool/images/logo.svg
@@ -48,6 +43,11 @@ sites:
     url: https://www.desmos.com
   - name: Mathway
     url: https://www.mathway.com
+  - name: Hypixel
+    url: mc.hypixel.net
+    check: "tcp-ping"
+    port: 25565
+    icon: https://hypixel.net/styles/hypixel-v2/images/header-logo.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
