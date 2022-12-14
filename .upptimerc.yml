@@ -48,10 +48,6 @@ sites:
     check: "tcp-ping"
     port: 25565
     icon: https://hypixel.net/styles/hypixel-v2/images/header-logo.png
-  - name: MC SERV
-    url: cdezselfhosted.pw
-    check: "tcp-ping"
-    port: 25565
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
