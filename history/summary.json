@@ -40,10 +40,10 @@
     "url": "https://www.roblox.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.roblox.com.ico",
     "slug": "roblox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 215,
@@ -51,16 +51,18 @@
     "timeWeek": 257,
     "timeMonth": 226,
     "timeYear": 215,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-10": 1
+    }
   },
   {
     "name": "Roblox Games",
     "url": "https://gamejoin.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/gamejoin.roblox.com.ico",
     "slug": "roblox-games",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 150,
     "timeMonth": 120,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-10": 0
+    }
   },
   {
     "name": "YouTube",
