@@ -21,6 +21,8 @@ sites:
     url: https://comick.app
   - name: MangaDex
     url: https://www.mangadex.org
+  - name: LiveCharts
+    url: https://www.livechart.me
   - name: Github
     url: https://www.github.com
   - name: Discord
