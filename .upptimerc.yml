@@ -35,9 +35,6 @@ sites:
     url: https://store.steampowered.com
   - name: Netflix
     url: https://www.netflix.com
-  - name: Sakura
-    url: https://cdezselfhosted.pw
-    icon: https://media.discordapp.net/attachments/480142233761480704/1000902494286786571/sakuralogo_textonly.png?width=676&height=676
   - name: PowerSchool
     url: $SECRET_URL
     icon: https://www.powerschool.com/wp-content/themes/powerschool/images/logo.svg
