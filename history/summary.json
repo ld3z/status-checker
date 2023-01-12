@@ -130,19 +130,19 @@
     "url": "https://comick.app",
     "icon": "https://icons.duckduckgo.com/ip3/comick.app.ico",
     "slug": "comic-k",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 272,
-    "timeWeek": 223,
-    "timeMonth": 219,
-    "timeYear": 182,
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "81.43%",
+    "uptimeWeek": "97.35%",
+    "uptimeMonth": "99.39%",
+    "uptimeYear": "99.53%",
+    "time": 189,
+    "timeDay": 312,
+    "timeWeek": 251,
+    "timeMonth": 237,
+    "timeYear": 189,
     "dailyMinutesDown": {
-      "2023-01-12": 0
+      "2023-01-12": 267
     }
   },
   {
@@ -159,7 +159,7 @@
     "time": 725,
     "timeDay": 438,
     "timeWeek": 368,
-    "timeMonth": 514,
+    "timeMonth": 487,
     "timeYear": 725,
     "dailyMinutesDown": {}
   },
