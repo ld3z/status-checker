@@ -130,18 +130,20 @@
     "url": "https://comick.app",
     "icon": "https://icons.duckduckgo.com/ip3/comick.app.ico",
     "slug": "comic-k",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 184,
-    "timeDay": 327,
-    "timeWeek": 240,
-    "timeMonth": 228,
-    "timeYear": 184,
-    "dailyMinutesDown": {}
+    "time": 182,
+    "timeDay": 272,
+    "timeWeek": 223,
+    "timeMonth": 219,
+    "timeYear": 182,
+    "dailyMinutesDown": {
+      "2023-01-12": 0
+    }
   },
   {
     "name": "MangaDex",
@@ -157,7 +159,7 @@
     "time": 725,
     "timeDay": 438,
     "timeWeek": 368,
-    "timeMonth": 1290,
+    "timeMonth": 514,
     "timeYear": 725,
     "dailyMinutesDown": {}
   },
